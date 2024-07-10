@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.français - LMECO</string>
+	<string>org.sil.ukelele.keyboardlayout.français </string>
 	<key>CFBundleName</key>
-	<string> Français - LMECO</string>
+	<string> Français </string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_ Français - LMECO</key>
+	<key>KLInfo_ Français </key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.français - LMECO</string>
+		<string>org.sil.ukelele.keyboardlayout.français </string>
 		<key>TISIntendedLanguage</key>
 		<string>fr</string>
 	</dict>
