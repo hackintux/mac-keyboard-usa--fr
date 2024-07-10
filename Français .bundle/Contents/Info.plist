@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.français </string>
+	<string>org.sil.ukelele.keyboardlayout.français</string>
 	<key>CFBundleName</key>
 	<string> Français </string>
 	<key>CFBundleVersion</key>
@@ -13,7 +13,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.français </string>
+		<string>org.sil.ukelele.keyboardlayout.français</string>
 		<key>TISIntendedLanguage</key>
 		<string>fr</string>
 	</dict>
